@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jest-each": "^23.6.0",
+    "test": "^0.6.0"
+  }
+}
